@@ -1,7 +1,7 @@
 # 🐍 Python Learning Journey
 
 Welcome to my **Python Learning Repository**!  
-This repo contains all the **programs, exercises, and small projects** that I create while learning and practicing **Python programming**.
+This repo contains all the **programs, exercises, and small projects** that I create while learning and practicing **Python programming**
 
 ---
 
